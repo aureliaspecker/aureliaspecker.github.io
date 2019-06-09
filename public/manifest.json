@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "personal-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dhruv34788.github.io/me",
+  "homepage": "https://aureliaspecker.github.io",
   "dependencies": {
       "gh-pages": "^2.0.1",
       "react": "^16.8.3",
